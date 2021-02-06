@@ -1,0 +1,50 @@
+body {
+    background-color: #DFDFDF;
+}
+
+.busname {
+    color: #cdae51;
+    font-weight: bold;
+}
+
+.subtt {
+    font-size: 16pt;
+}
+
+img {
+    width: 100%;
+}
+
+.visit {
+    text-align: center;
+    padding-top: 30px;
+    color: #777777;
+}
+
+.p1 {
+    text-align: justify;
+    max-width: 600px;
+    margin: auto;
+    padding-bottom: 30px;
+}
+
+.reviews {
+    text-align: center;
+    font-size: 16pt;
+    padding-top: 30px;
+}
+
+.row {
+    background-color: white;
+}
+
+.testimonial {
+    border: 5px solid #DFDFDF;
+    background-color: white;
+    padding: 10px;
+    flex-wrap: wrap;
+}
+
+h6 {
+    font-weight: bold;
+}
